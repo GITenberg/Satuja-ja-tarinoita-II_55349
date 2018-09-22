@@ -1,5 +1,5 @@
 _repo: Satuja-ja-tarinoita-II_55349
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Talvio, Maila
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1951
     gutenberg_agent_id: '39128'
     url: http://www.gutenberg.org/2009/agents/39128
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Andersen, H. C. (Hans Christian)
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2298
     wikipedia: http://en.wikipedia.org/wiki/Hans_Christian_Andersen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55349#Satuja-ja-tarinoita-II
 gutenberg_issued: '2017-08-12'
 gutenberg_type: Text
 identifiers:
